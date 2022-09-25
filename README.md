@@ -15,7 +15,7 @@ O intuito desta ferramenta é permitir a inserção de dados randômicos em uma 
 1. Clonar o repositório;
 
 ```bash
-$ https://github.com/clecio-sf/Ferramenta-de-Povoamento-Aleatorio.git
+$ https://github.com/certificadosifba/Ferramenta-Povoamento-Aleatorio.git
 ```
 
 2. Abrir o projeto com algum editor de texto;
